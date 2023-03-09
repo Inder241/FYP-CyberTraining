@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1061057065069",
+    "project_id": "fyp-cyber-awarness",
+    "storage_bucket": "fyp-cyber-awarness.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1061057065069:android:680cb36410f747bf3ecf64",
+        "android_client_info": {
+          "package_name": "com.example.fyp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1061057065069-8djvoojo5js25qbtv4b6c8qq20on57bt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fyp",
+            "certificate_hash": "9b28e599d95ee858f440fec2850260fe477365b6"
+          }
+        },
+        {
+          "client_id": "1061057065069-usrtd2i0ru0846m7ugma4tit68i0vd53.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPJCbTjO4m2Hl3zW9LSnC0YUPdPWYrDkg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1061057065069-usrtd2i0ru0846m7ugma4tit68i0vd53.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
